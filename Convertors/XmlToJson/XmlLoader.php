@@ -1,6 +1,8 @@
 <?php
 namespace Convertors\XmlToJson;
 
+use Convertors\Base\LoaderInterface;
+
 class XmlLoader implements LoaderInterface
 {
     public function load($xmlData)

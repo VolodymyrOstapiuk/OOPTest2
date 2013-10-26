@@ -1,6 +1,8 @@
 <?php
 namespace Convertors\XmlToJson;
 
+use Convertors\Base\AbstractConverter;
+
 class XmlConverter extends AbstractConverter
 {
     private $data;

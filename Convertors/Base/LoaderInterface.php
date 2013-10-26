@@ -1,5 +1,5 @@
 <?php
-namespace Convertors\XmlToJson;
+namespace Convertors\Base;
 
 interface LoaderInterface
 {
